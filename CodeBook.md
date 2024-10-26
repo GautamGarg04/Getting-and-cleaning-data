@@ -1,4 +1,3 @@
-README.md
 ## Getting and Cleaning Data Project
 
 Author: Gautam Garg
